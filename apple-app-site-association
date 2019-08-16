@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8U3A9S3C64.uz.payme.Payme",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "8U3A9S3C64.uz.payme.P2Me",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
